@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://archive-up2r5e.nihon-bare.com/sitemap.xml
